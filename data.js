@@ -24,7 +24,7 @@ const DATA = {
   "cto": [
     {
       "name": "SC orange passion",
-      "photos": ["images/Blue-lit branching coral.png", "images/Sc Orange passion side shot.jpg",]
+      "photos": ["images/Blue-lit branching coral.png", "images/Sc Orange passion side shot.jpg"],
       "fragSize": "1 inch+",
       "price": "$200",
       "care": "Lighting: High / Flow: High",
